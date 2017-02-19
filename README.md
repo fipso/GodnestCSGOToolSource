@@ -1,3 +1,7 @@
+# RIP
+
+# English Version -> https://github.com/User344/GodnestCSGOTool
+
 # GodnestCSGOToolSource
 
 ## I am not the creator of this code !!
